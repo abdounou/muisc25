@@ -1,4 +1,4 @@
-owner=516473846983950336
+owner=515307827196067840
 prefix=m
 game=mplay l mhelp
 stayinchannel=true
